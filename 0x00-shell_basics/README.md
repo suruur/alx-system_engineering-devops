@@ -5,4 +5,5 @@ Script [1] displays the contents list of the current working directory.
 Script [2] changes current working directory to user home directory.
 Script [3] list contents with details.
 Script [4] list hidden contents.
+Script [5] added .
 
