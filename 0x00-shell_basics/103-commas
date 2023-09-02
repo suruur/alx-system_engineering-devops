@@ -1,1 +1,2 @@
- ls -aUF --format=comma
+#!/bin/bash
+ls -aUF --format=comma
