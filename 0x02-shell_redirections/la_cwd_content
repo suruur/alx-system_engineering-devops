@@ -1,0 +1,22 @@
+total 80
+drwxr-xr-x 2 root root  4096 Sep  4 06:20 .
+drwxr-xr-x 6 root root   149 Sep  4 04:53 ..
+-rwxr--r-- 1 root root    32 Sep  4 05:18 0-hello_world
+-rwxr--r-- 1 root root    13 Sep  4 05:01 10-no_more_js
+-rwxr--r-- 1 root root    28 Sep  4 05:27 1-confused_smiley
+-rwxr--r-- 1 root root    28 Sep  4 05:29 2-hellofile
+-rwxr--r-- 1 root root    39 Sep  4 05:46 3-twofiles
+-rwxr--r-- 1 root root    29 Sep  4 05:36 4-lastlines
+-rwxr--r-- 1 root root    29 Sep  4 05:47 5-firstlines
+-rwxr--r-- 1 root root    36 Sep  4 06:01 6-third_line
+-rw-r--r-- 1 root root 12288 Sep  4 05:54 .6-third_line.swp
+-rwxr--r-- 1 root root   109 Sep  4 06:17 7-file
+-rwxr--r-- 1 root root    36 Sep  4 06:20 8-cwd_state
+-rwxr--r-- 1 root root    13 Sep  4 04:59 9-duplicate_last_line
+-rw-r--r-- 1 root root     0 Sep  4 06:13 \*\'Best School\'\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root     0 Sep  4 06:20 la_cwd_content
+-rw-r--r-- 1 root root    35 Sep  4 06:13 name
+-rw-r--r-- 1 root root    26 Sep  4 04:55 README.md
+-rw-r--r-- 1 root root    35 Sep  4 06:08 s
+-rw-r--r-- 1 root root    13 Sep  4 04:57 script
+-rw-r--r-- 1 root root    81 Sep  4 06:06 se.txt
